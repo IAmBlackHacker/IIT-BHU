@@ -1,2 +1,2 @@
 # IIT-BHU
-Scripts makes life easy
+Scripts make life easy
